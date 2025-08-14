@@ -18,3 +18,5 @@ Built with modern web technologies for a clean, fast, and engaging user experien
 - **HTML5** – Structure and semantics
 - **CSS3** (or Tailwind/Bootstrap if used) – Styling and responsiveness
 - **JavaScript (ES6+)** – Interactivity
+
+<img width="1898" height="865" alt="image" src="https://github.com/user-attachments/assets/db7a966f-ce20-47da-b3bc-820af6b6d692" />
